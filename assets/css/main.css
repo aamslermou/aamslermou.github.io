@@ -1791,7 +1791,7 @@ input, select, textarea {
 
 		header.major h2 + p {
 			color: #777;
-			font-size: 3em;
+			font-size: 2em;
 			font-weight: 700;
 			margin-top: -0.75em;
 		}
@@ -3157,7 +3157,7 @@ input, select, textarea {
 			}
 
 				header.major h2 + p {
-					font-size: 3em;
+					font-size: 2em;
 				}
 
 		/* Features */
